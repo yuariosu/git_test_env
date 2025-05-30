@@ -2,3 +2,7 @@
 
 This is test. This text is originated from master branch. You have to know where the change 
 came from. This is very crucial.
+
+
+This commit is made in order to test the git'role in updateing file. 
+
